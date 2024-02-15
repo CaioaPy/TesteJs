@@ -1,0 +1,13 @@
+[
+    {
+    "nome" : "CaioEmPessoa",
+    "idade" : 17,
+    "trabalhador" : false,
+    "detalhes_profissao" : {
+        "trabalho" : "nada",
+        "empresa" : "PessoaCorp"
+    },
+    "hobbies" : ["comer", "codar", "splatoon"]
+
+    }
+]
