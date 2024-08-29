@@ -1,2 +1,11 @@
 console.log("hello");
 console.log("im the print command")
+
+//window.alert('ALERT');
+//window.alert('THEY EAT ALL MY HOUSE');
+
+let x;
+x = 12;
+let y = 2;
+let b = x - 2;
+console.log(b)
