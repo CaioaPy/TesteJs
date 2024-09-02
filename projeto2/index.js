@@ -8,3 +8,9 @@ document.getElementById("submit").onclick = function(){
     circumference = 2 * pi * r;
     document.getElementById("ah3").textContent = circumference;
 }
+
+document.getElementById("submit2").onclick = function(){
+    txt = document.getElementById("texto2").value;
+    txt = txt + " aoso";
+    document.getElementById("meuh3").textContent = txt;
+}
