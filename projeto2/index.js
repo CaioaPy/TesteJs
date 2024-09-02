@@ -6,6 +6,12 @@ document.getElementById("submit").onclick = function(){
     r = document.getElementById("numero").value;
     r = Number(r);
     circumference = 2 * pi * r;
+    if (circumference < 100){
+        circumference = circumference + " pequeno"
+    }
+    else{
+        circumference = circumference + " grande"
+    }
     document.getElementById("ah3").textContent = circumference;
 }
 
