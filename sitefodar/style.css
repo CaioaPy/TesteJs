@@ -1,9 +1,20 @@
+*{
+    margin: 0 auto;
+}
 header{
     font-family: Comic Neue;
+    width: 90%;
+    height: 100%;
 }
 main{
+    width: 90%;
+    height: 100%;
     font-family: comic neue;
     background-color: #ffc0cb;
+}
+main a{
+    text-decoration: none;
+    color: white;
 }
 main.div{
     margin: 10px;
