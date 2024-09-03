@@ -5,16 +5,19 @@ header{
     font-family: Comic Neue;
     width: 90%;
     height: 100%;
+    color: rgba(255, 049, 150, 0.863);
+    background-color: hwb(0 21% 79% / 0.863);
 }
 main{
     width: 90%;
     height: 100%;
     font-family: comic neue;
-    background-color: #ffc0cb;
+    background-color: rgba(53, 53, 53, 0.863);
+    color: rgba(255, 049, 150, 0.863);
 }
 main a{
     text-decoration: none;
-    color: white;
+    color: rgba(255, 049, 150, 0.863);
 }
 main.div{
     margin: 10px;
